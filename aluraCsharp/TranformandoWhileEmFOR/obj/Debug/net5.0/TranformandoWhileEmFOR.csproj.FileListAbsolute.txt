@@ -1,0 +1,16 @@
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\TranformandoWhileEmFOR.exe
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\TranformandoWhileEmFOR.deps.json
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\TranformandoWhileEmFOR.runtimeconfig.json
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\TranformandoWhileEmFOR.runtimeconfig.dev.json
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\TranformandoWhileEmFOR.dll
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\ref\TranformandoWhileEmFOR.dll
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\bin\Debug\net5.0\TranformandoWhileEmFOR.pdb
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.csproj.AssemblyReference.cache
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.AssemblyInfoInputs.cache
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.AssemblyInfo.cs
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.csproj.CoreCompileInputs.cache
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.dll
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\ref\TranformandoWhileEmFOR.dll
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.pdb
+D:\C-Alura\aluraCsharp\TranformandoWhileEmFOR\obj\Debug\net5.0\TranformandoWhileEmFOR.genruntimeconfig.cache

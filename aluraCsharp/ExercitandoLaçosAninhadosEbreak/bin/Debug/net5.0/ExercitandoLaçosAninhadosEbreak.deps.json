@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercitandoLaçosAninhadosEbreak/1.0.0": {
+        "runtime": {
+          "ExercitandoLaçosAninhadosEbreak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercitandoLaçosAninhadosEbreak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

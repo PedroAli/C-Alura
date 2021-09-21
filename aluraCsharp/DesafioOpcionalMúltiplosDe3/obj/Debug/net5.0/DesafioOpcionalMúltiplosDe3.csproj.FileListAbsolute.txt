@@ -1,0 +1,15 @@
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\DesafioOpcionalMúltiplosDe3.exe
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\DesafioOpcionalMúltiplosDe3.deps.json
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\DesafioOpcionalMúltiplosDe3.runtimeconfig.json
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\DesafioOpcionalMúltiplosDe3.runtimeconfig.dev.json
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\DesafioOpcionalMúltiplosDe3.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\ref\DesafioOpcionalMúltiplosDe3.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\bin\Debug\net5.0\DesafioOpcionalMúltiplosDe3.pdb
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.AssemblyInfoInputs.cache
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.AssemblyInfo.cs
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.csproj.CoreCompileInputs.cache
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\ref\DesafioOpcionalMúltiplosDe3.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.pdb
+D:\C-Alura\aluraCsharp\DesafioOpcionalMúltiplosDe3\obj\Debug\net5.0\DesafioOpcionalMúltiplosDe3.genruntimeconfig.cache

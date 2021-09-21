@@ -1,0 +1,16 @@
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.exe
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.deps.json
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.json
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.dev.json
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.dll
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.pdb
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.AssemblyReference.cache
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfo.cs
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.dll
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.pdb
+D:\C-Alura\aluraCsharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.genruntimeconfig.cache

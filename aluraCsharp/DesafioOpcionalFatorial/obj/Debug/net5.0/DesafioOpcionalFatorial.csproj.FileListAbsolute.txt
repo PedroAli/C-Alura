@@ -1,0 +1,15 @@
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\DesafioOpcionalFatorial.exe
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\DesafioOpcionalFatorial.deps.json
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\DesafioOpcionalFatorial.runtimeconfig.json
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\DesafioOpcionalFatorial.runtimeconfig.dev.json
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\DesafioOpcionalFatorial.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\ref\DesafioOpcionalFatorial.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\bin\Debug\net5.0\DesafioOpcionalFatorial.pdb
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.AssemblyInfoInputs.cache
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.AssemblyInfo.cs
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.csproj.CoreCompileInputs.cache
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\ref\DesafioOpcionalFatorial.dll
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.pdb
+D:\C-Alura\aluraCsharp\DesafioOpcionalFatorial\obj\Debug\net5.0\DesafioOpcionalFatorial.genruntimeconfig.cache

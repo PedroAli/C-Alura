@@ -1,0 +1,16 @@
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.exe
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.deps.json
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.runtimeconfig.json
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.runtimeconfig.dev.json
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.dll
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ref\ExercitandoLaçosAninhadosEbreak.dll
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\bin\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.pdb
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.csproj.AssemblyReference.cache
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.AssemblyInfoInputs.cache
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.AssemblyInfo.cs
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.csproj.CoreCompileInputs.cache
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.dll
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ref\ExercitandoLaçosAninhadosEbreak.dll
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.pdb
+D:\C-Alura\aluraCsharp\ExercitandoLaçosAninhadosEbreak\obj\Debug\net5.0\ExercitandoLaçosAninhadosEbreak.genruntimeconfig.cache
