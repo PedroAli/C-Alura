@@ -1,0 +1,16 @@
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\aluraCsharp.exe
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\aluraCsharp.deps.json
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\aluraCsharp.runtimeconfig.json
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\aluraCsharp.runtimeconfig.dev.json
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\aluraCsharp.dll
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\ref\aluraCsharp.dll
+D:\C-Alura\aluraCsharp\aluraCsharp\bin\Debug\net5.0\aluraCsharp.pdb
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.csproj.AssemblyReference.cache
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.AssemblyInfoInputs.cache
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.AssemblyInfo.cs
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.csproj.CoreCompileInputs.cache
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.dll
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\ref\aluraCsharp.dll
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.pdb
+D:\C-Alura\aluraCsharp\aluraCsharp\obj\Debug\net5.0\aluraCsharp.genruntimeconfig.cache
