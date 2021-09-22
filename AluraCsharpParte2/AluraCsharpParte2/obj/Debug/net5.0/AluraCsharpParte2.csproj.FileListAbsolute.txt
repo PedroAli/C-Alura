@@ -1,0 +1,16 @@
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\AluraCsharpParte2.exe
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\AluraCsharpParte2.deps.json
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\AluraCsharpParte2.runtimeconfig.json
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\AluraCsharpParte2.runtimeconfig.dev.json
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\AluraCsharpParte2.dll
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\ref\AluraCsharpParte2.dll
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\bin\Debug\net5.0\AluraCsharpParte2.pdb
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.csproj.AssemblyReference.cache
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.AssemblyInfoInputs.cache
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.AssemblyInfo.cs
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.csproj.CoreCompileInputs.cache
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.dll
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\ref\AluraCsharpParte2.dll
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.pdb
+D:\C-Alura\AluraCsharpParte2\AluraCsharpParte2\obj\Debug\net5.0\AluraCsharpParte2.genruntimeconfig.cache
