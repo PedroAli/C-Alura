@@ -1,0 +1,16 @@
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.exe
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.deps.json
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.runtimeconfig.json
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.runtimeconfig.dev.json
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.dll
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\ref\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.dll
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\bin\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.pdb
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.csproj.AssemblyReference.cache
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.AssemblyInfoInputs.cache
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.AssemblyInfo.cs
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.dll
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\ref\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.dll
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.pdb
+D:\C-Alura\AluraCsharpParte2\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos\obj\Debug\net5.0\04-MaosNaMassaCriandoConstrutoresEmembrosEstaticos.genruntimeconfig.cache
