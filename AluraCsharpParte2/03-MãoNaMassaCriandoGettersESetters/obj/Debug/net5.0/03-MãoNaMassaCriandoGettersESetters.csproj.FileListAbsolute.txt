@@ -1,0 +1,16 @@
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.exe
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.deps.json
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.runtimeconfig.json
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.runtimeconfig.dev.json
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.dll
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\ref\03-MãoNaMassaCriandoGettersESetters.dll
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\bin\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.pdb
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.csproj.AssemblyReference.cache
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.AssemblyInfoInputs.cache
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.AssemblyInfo.cs
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.csproj.CoreCompileInputs.cache
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.dll
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\ref\03-MãoNaMassaCriandoGettersESetters.dll
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.pdb
+D:\C-Alura\AluraCsharpParte2\03-MãoNaMassaCriandoGettersESetters\obj\Debug\net5.0\03-MãoNaMassaCriandoGettersESetters.genruntimeconfig.cache
