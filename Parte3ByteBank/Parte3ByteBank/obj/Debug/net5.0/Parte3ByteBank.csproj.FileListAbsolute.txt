@@ -1,0 +1,16 @@
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\Parte3ByteBank.exe
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\Parte3ByteBank.deps.json
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\Parte3ByteBank.runtimeconfig.json
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\Parte3ByteBank.runtimeconfig.dev.json
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\Parte3ByteBank.dll
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\ref\Parte3ByteBank.dll
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\bin\Debug\net5.0\Parte3ByteBank.pdb
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.csproj.AssemblyReference.cache
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.AssemblyInfoInputs.cache
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.AssemblyInfo.cs
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.csproj.CoreCompileInputs.cache
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.dll
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\ref\Parte3ByteBank.dll
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.pdb
+D:\C-Alura\Parte3ByteBank\Parte3ByteBank\obj\Debug\net5.0\Parte3ByteBank.genruntimeconfig.cache
