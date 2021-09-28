@@ -1,5 +1,6 @@
 ﻿using System;
 using Parte3ByteBank.Funcionarios;
+using Parte3ByteBank.Sistemas;
 
 namespace Parte3ByteBank
 {
@@ -7,8 +8,30 @@ namespace Parte3ByteBank
     {
         static void Main(string[] args)
         {
-            CalcularBonificacao();
+            //CalcularBonificacao();
+            UsarSistema();
             Console.ReadLine();
+        }
+
+        public static void UsarSistema()
+        {
+            SistemaInterno sistemaInterno = new SistemaInterno();
+
+            Diretor roberta = new Diretor("159.753.398-04");
+            roberta.Nome = "Roberta";
+            roberta.Senha = "123";
+
+            GerenteDeConta camila = new GerenteDeConta("326.985.628-89");
+            camila.Nome = "Camila";
+            camila.Senha = "abc";
+
+            ParceiroComercial parceiro = new ParceiroComercial();
+            parceiro.Senha = "123456"; 
+
+            sistemaInterno.Logar(parceiro, "123456");
+
+            sistemaInterno.Logar(roberta, "123");
+            sistemaInterno.Logar(camila, "abc");
         }
 
         public static void CalcularBonificacao()
