@@ -17,7 +17,7 @@ namespace AluraCsharpParte2
 
             Conta contaHenrique = new Conta();
             contaHenrique.nome = "Hernrique Pinto";
-            contapedro.Transferir(200,contaHenrique);
+            contapedro.Transferir(50,contaHenrique);
         }
     }
 }
