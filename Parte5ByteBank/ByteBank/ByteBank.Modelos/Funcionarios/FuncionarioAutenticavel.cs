@@ -16,9 +16,11 @@ namespace ByteBank.Modelos.Funcionarios
         {
         }
 
+        private AutenticacaoHelper _autenticacaoHelper = new AutenticacaoHelper();
+
         public bool Autenticar(string senha)
         {
-            return Senha == senha;
+            return _autenticacaoHelper.CompararSenhar(Senha, senha);
         }
     }
 }
