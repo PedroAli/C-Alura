@@ -1,0 +1,16 @@
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ProjetoEComerce.exe
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ProjetoEComerce.deps.json
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ProjetoEComerce.runtimeconfig.json
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ProjetoEComerce.runtimeconfig.dev.json
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ProjetoEComerce.dll
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ref\ProjetoEComerce.dll
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\bin\Debug\net5.0\ProjetoEComerce.pdb
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.csproj.AssemblyReference.cache
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.AssemblyInfoInputs.cache
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.AssemblyInfo.cs
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.csproj.CoreCompileInputs.cache
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.dll
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ref\ProjetoEComerce.dll
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.pdb
+D:\C-Alura\ProjetoEComerce\ProjetoEComerce\obj\Debug\net5.0\ProjetoEComerce.genruntimeconfig.cache
